@@ -1,2 +1,6 @@
-document.write("Md. Masrul Mollah ACA ACMA");
+document.write("Md. Masrul Mollah");
+
 document.write("I am learning website development with javascript")
+
+document.write("Muhammad Ibne Masrul in my son");
+
