@@ -2,7 +2,12 @@ document.write("<font size='5'><b>MD. MASRUL MOLLAH ACA, ACMA, CGMA</font></b><b
 document.write("Mobile: +880(17) 39 573935 <br/> ");
 document.write("E-mail: <font color='blue'>masrulkpmg@gmail.com</font> <br/>");
 document.write("LinkedIn: <font color='blue'>Md. Masrul Mollah ACA ACMA CGMA</font><br/><br/>");
-document.write("<table>");
+document.write("<table border='1'>");
+  document.write("<tr>");
+  document.write("<td>1</td>");
+  document.write("<td>1</td>");
+  document.write("<td>1</td>");
+  document.write("</tr>");
   document.write("<tr>");
   document.write("<td>1</td>");
   document.write("<td>1</td>");
