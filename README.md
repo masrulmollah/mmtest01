@@ -2,7 +2,7 @@ document.write("<font size='5'><b>MD. MASRUL MOLLAH ACA, ACMA, CGMA</font></b><b
 document.write("Mobile: +880(17) 39 573935 <br/> ");
 document.write("E-mail: <font color='blue'>masrulkpmg@gmail.com</font> <br/>");
 document.write("LinkedIn: <font color='blue'>Md. Masrul Mollah ACA ACMA CGMA</font><br/><br/>");
-document.write("Professional Experience<br/>")
+document.write("<font size='5'><b>Professional Experience</font></b><br/>");
 document.write("<table border='1' width='700'>");
   document.write("<tr bgcolor='cyan'>");
   document.write("<td>Company</td>");
@@ -30,3 +30,13 @@ document.write("<br/>");
 document.write("Experienced finance professional having over 8 years and 3 months of extensive experience in supply chain finance, business finance,accounting, auditing, tax, VAT and transfer pricing including 4.5 years at KPMG Bangladesh and 3.9 years of corporate experience at Unilever Bangladesh.<br/><br/>");
 document.write("<font size='5'><b>PROFESSIONAL SPECIALIZATION & EXPERTISE</font></b><br/>");
 document.write("-Supply Chain Finance (procurement, distribution, inventory management and 3P manufacturing)<br/>");
+document.write("-Leading supply chain savings projects (including buying, make and non-make)<br/>");
+document.write("-Drive supply chain business cases (both innovation and extension)<br/>");
+document.write("-Business analytics (material rates and inflations, take backs, distribution cost and 3P conversion cost)<br/>");
+document.write("-Corporate and personal Income Tax – Compliance, Advisory, Planning and Reporting<br/>");
+document.write("-Indirect Tax (VAT) - Compliance, Advisory, Planning and Reporting<br/>");
+document.write("-Transfer pricing laws, regulation and documentation<br/>");
+document.write("-Expert knowledge in compliance and implementation of (IAS and IFRS)<br/>");
+document.write("-Implementation of internal control with respect to accounting, record keeping, property management system, travel policy, procurement and outsourcing activities.)<br/>");
+document.write("-Statutory Audit and Assurance Services<br/>");
+document.write("-Due diligence audit for business merger and acquisition<br/>");
