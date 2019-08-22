@@ -18,7 +18,7 @@ document.write("<table border='1' width='700'>");
   document.write("<td>Supervisor Tax</td>");
   document.write("<td>Assistant Auditor</td>");
   document.write("</tr>");
-  document.write("<tr bgcolor='blue'>");
+  document.write("<tr bgcolor='Green'>");
   document.write("<td>Year</td>");
   document.write("<td>2019</td>");
   document.write("<td>2017</td>");
