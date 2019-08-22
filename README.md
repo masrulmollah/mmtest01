@@ -27,5 +27,6 @@ document.write("<table border='1' width='700'>");
   document.write("</tr>");
 document.write("</table>");
 document.write("<br/>");
-document.write("Experienced finance professional having over 8 years and 3 months of extensive experience in supply chain finance, business finance,accounting, auditing, tax, VAT and transfer pricing including 4.5 years at KPMG Bangladesh and 3.9 years of corporate experience at Unilever Bangladesh.<br/><b/>");
+document.write("Experienced finance professional having over 8 years and 3 months of extensive experience in supply chain finance, business finance,accounting, auditing, tax, VAT and transfer pricing including 4.5 years at KPMG Bangladesh and 3.9 years of corporate experience at Unilever Bangladesh.<br/><br/>");
 document.write("<font size='5'><b>PROFESSIONAL SPECIALIZATION & EXPERTISE</font></b><br/>");
+docunemt.write("-Supply Chain Finance (procurement, distribution, inventory management and 3P manufacturing)<br/>");
