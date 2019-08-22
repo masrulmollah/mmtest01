@@ -26,6 +26,7 @@ document.write("<table border='1' width='700'>");
   document.write("<td>2013</td>");
   document.write("</tr>");
 document.write("</table>");
+
 document.write("Seeking a leadership role in finance and operational function of an
 organization.<br/>");
 document.write("Experienced finance professional having over 8 years and 3 months of
