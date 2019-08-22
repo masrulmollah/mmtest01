@@ -27,5 +27,4 @@ document.write("<table border='1' width='700'>");
   document.write("</tr>");
 document.write("</table>");
 document.write("<br/>");
-document.write("Seeking a leadership role in finance and operational function of an
-organization.<br/>");
+document.write("Seeking a leadership role in finance and operational function of an organization<br/>");
