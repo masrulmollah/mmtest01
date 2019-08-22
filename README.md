@@ -25,11 +25,11 @@ document.write("<table border='1' width='700'>");
   document.write("<td>2015</td>");
   document.write("<td>2013</td>");
   document.write("</tr>");
-document.write("</table>");
+document.write("</table><br/>");
 document.write("Seeking a leadership role in finance and operational function of an
 organization.<br/>");
 document.write("Experienced finance professional having over 8 years and 3 months of
 extensive experience in supply chain finance, business finance,
 accounting, auditing, tax, VAT and transfer pricing including 4.5 years
 at KPMG Bangladesh and 3.9 years of corporate experience at Unilever Bangladesh.<br/>")
-document.write("</tr>");
+
